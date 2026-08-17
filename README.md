@@ -6,21 +6,64 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 16 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (9)
+- [math](#math) (5)
+- [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Akshay-sri0001/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 
 ---
 
